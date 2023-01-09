@@ -1,4 +1,4 @@
-#open terminal
+#open ubuntu terminal
 
 virtualvenv venv
 source venv/bin/activate
